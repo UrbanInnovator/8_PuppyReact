@@ -16,7 +16,7 @@ const App = () => {
         throw error;
       }
       }
-        getPuppies();
+        getPuppies();,,,
   }, [])
 
   return (
